@@ -1,4 +1,4 @@
-# 01-TaskList-Project
+# 01-TaskList-Project  -> Tutorial HELL :(
 
 developed using JavaScript and localStorage 
 
